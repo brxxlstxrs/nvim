@@ -1,0 +1,8 @@
+{
+  "github-nvim-theme": { "branch": "main", "commit": "e28eb579079c6abeb9c21bd85bb9a04379ac64b4" },
+  "kanagawa.nvim": { "branch": "master", "commit": "1749cea392acb7d1548a946fcee1e6f1304cd3cb" },
+  "lazy.nvim": { "branch": "main", "commit": "f8611632d0f9c6818e8eb54f9bcd1dad122b5a7f" },
+  "nvim-lspconfig": { "branch": "master", "commit": "2187f222c37cb5fd7cf96f242e5c8a4a340f2596" },
+  "nvim-treesitter": { "branch": "master", "commit": "0b81ed9f18333949a74586a1ea0497ae4cbb7cd4" },
+  "rainbow-delimiters.nvim": { "branch": "master", "commit": "792e247993b0f8768d23ef302103f6945b92290b" }
+}
