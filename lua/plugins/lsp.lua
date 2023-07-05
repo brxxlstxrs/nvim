@@ -1,7 +1,7 @@
 return {
   {
     "neovim/nvim-lspconfig",
-    event = { "BufReadPre", "BufNewFile" },
+    event = { "BufReadPre", "BufWinEnter", "BufNewFile" },
     keys = {
       { '<space>e', vim.diagnostic.open_float },
       { '[d', vim.diagnostic.goto_prev },

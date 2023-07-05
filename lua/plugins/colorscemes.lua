@@ -1,6 +1,7 @@
 return {
   {
     'projekt0n/github-nvim-theme',
+    name = "github-theme",
     lazy = true,
     priority = 1000,
     opts = {
@@ -9,9 +10,6 @@ return {
         transparent = true,
       },
     },
-    config = function(_, opts)
-      require('github-theme').setup(opts)
-    end,
   },
 
   {
